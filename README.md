@@ -1,7 +1,5 @@
 # Gen-Prompt-Studio
 
-**版本**: 0.0.1
-
 一个基于Claude Code的Prompt管理与优化工作台，专注于创建、管理和优化高质量的AI提示词。
 
 ## 项目概述
